@@ -9,3 +9,4 @@ Habilidades técnicas y tecnologías que quieres manejar, usando una tabla (tabl
 Intereses, usando una tabla (table,td,tr) describe tus intereses indicando su nombre, e.g. Aplicaciones móviles, Realidad aumentada, SCRUM, etc.
 Añade un campo de texto para un email, un textarea para un mensaje y un botón con el texto contactar
 Comparte el resultado con tus compañeros de curso en los canales públicos
+
